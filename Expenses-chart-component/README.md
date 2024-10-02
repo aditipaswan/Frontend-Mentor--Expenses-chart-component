@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/mkboris/Expenses-chart-component)
+- [Solution](https://github.com/aditipaswan/Frontend-Mentor-Expenses-chart-component.git)
 - [Live Site](https://expenses-chart-component-silk.vercel.app/)
 
 ## My process
